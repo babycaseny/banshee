@@ -309,11 +309,11 @@ msgstr ""
 
 #: C/sort.page:24(title)
 msgid "Sort your media"
-msgstr ""
+msgstr "Sort neidè midia"
 
 #: C/sort.page:28(title)
 msgid "Adding Columns"
-msgstr ""
+msgstr "Äddiŋ Kolùmns"
 
 #: C/sort.page:30(p)
 msgid ""
@@ -414,7 +414,7 @@ msgstr ""
 
 #: C/search.page:62(gui) C/search.page:84(gui)
 msgid "Description"
-msgstr ""
+msgstr "Diskripçion"
 
 #: C/search.page:65(p)
 msgid "<em>default</em>, <em>white space</em>"
@@ -614,7 +614,7 @@ msgstr ""
 
 #: C/play-queue.page:18(title)
 msgid "Play Queue"
-msgstr ""
+msgstr "Pleikyu"
 
 #: C/play-queue.page:20(p)
 msgid ""
@@ -757,7 +757,7 @@ msgstr ""
 
 #: C/manage-tags.page:65(gui)
 msgid "Album Title"
-msgstr ""
+msgstr "Älbùm dè Tàitol"
 
 #: C/manage-tags.page:66(gui)
 msgid "Genre"
@@ -773,7 +773,7 @@ msgstr ""
 
 #: C/manage-tags.page:69(gui) C/manage-playlists.page:109(gui)
 msgid "Year"
-msgstr ""
+msgstr "Nin"
 
 #: C/manage-tags.page:72(p)
 msgid ""
@@ -790,7 +790,7 @@ msgstr ""
 
 #: C/manage-playlists.page:19(title) C/keyboardshortcuts.page:69(title)
 msgid "Playlists"
-msgstr ""
+msgstr "Pleilists"
 
 #: C/manage-playlists.page:21(p)
 msgid ""
@@ -883,7 +883,7 @@ msgstr ""
 #: C/manage-playlists.page:93(p) C/manage-playlists.page:109(gui)
 #: C/manage-playlists.page:113(gui)
 msgid "is"
-msgstr ""
+msgstr "wa"
 
 #: C/manage-playlists.page:94(p)
 msgid "is not"
@@ -1153,7 +1153,7 @@ msgstr ""
 #: C/keyboardshortcuts.page:123(key) C/keyboardshortcuts.page:127(key)
 #: C/keyboardshortcuts.page:132(key) C/keyboardshortcuts.page:137(key)
 msgid "Control"
-msgstr ""
+msgstr "Koncrol"
 
 #: C/keyboardshortcuts.page:60(key)
 msgid "I"
@@ -1169,7 +1169,7 @@ msgstr ""
 
 #: C/keyboardshortcuts.page:86(title) C/add-podcast.page:26(title)
 msgid "Podcasts"
-msgstr ""
+msgstr "Podkasts"
 
 #: C/keyboardshortcuts.page:93(key)
 msgid "Y"
@@ -1254,7 +1254,7 @@ msgstr ""
 
 #: C/introduction.page:24(title)
 msgid "Introduction"
-msgstr ""
+msgstr "Introdùkçion"
 
 #: C/introduction.page:26(p)
 msgid ""
