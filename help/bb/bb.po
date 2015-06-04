@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Banshee 2.3.6\n"
 "POT-Creation-Date: 2011-04-06 15:46+0000\n"
-"PO-Revision-Date: 2015-03-27 00:39+0800\n"
+"PO-Revision-Date: 2015-06-05 04:47+0800\n"
 "Last-Translator: Tom K. C. Chiu <tomchiukc@gmail.com>\n"
 "Language-Team: Babyish <babycaseny@gmail.com>\n"
 "Language: bb\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.7.5\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: bb\n"
 
@@ -245,7 +245,7 @@ msgstr ""
 
 #: C/sync.page:100(title)
 msgid "Sync Your Entire Library"
-msgstr ""
+msgstr "Synĥ Neidè Whoul Laibrari"
 
 #: C/sync.page:101(p)
 msgid ""
@@ -305,7 +305,7 @@ msgstr ""
 
 #: C/sort.page:9(desc)
 msgid "Sort your media and add additional columns."
-msgstr ""
+msgstr "Sort neidè midia en ädd äddeiçionol kolùmns."
 
 #: C/sort.page:24(title)
 msgid "Sort your media"
@@ -335,7 +335,7 @@ msgstr ""
 
 #: C/sort.page:46(title)
 msgid "Sorting Columns"
-msgstr ""
+msgstr "Sortiŋ Kolùmns"
 
 #: C/sort.page:47(p)
 msgid ""
@@ -351,8 +351,9 @@ msgid "Search your media and perfom basic queries."
 msgstr ""
 
 #: C/search.page:24(title)
+#, fuzzy
 msgid "Searching your Banshee Library"
-msgstr ""
+msgstr "Privyu fayls wiŧout importiŋ tu neidè laibrari."
 
 #: C/search.page:26(p)
 msgid ""
@@ -381,7 +382,7 @@ msgstr ""
 
 #: C/search.page:43(title)
 msgid "Basic Operators"
-msgstr ""
+msgstr "Beisik Opèreiçions"
 
 #: C/search.page:44(p)
 msgid ""
@@ -400,7 +401,7 @@ msgstr ""
 
 #: C/search.page:56(title)
 msgid "Logical Operators and Examples"
-msgstr ""
+msgstr "Lojikol Opèreitās en Iksampols"
 
 #: C/search.page:57(p)
 msgid ""
@@ -410,7 +411,7 @@ msgstr ""
 
 #: C/search.page:62(gui)
 msgid "Operator"
-msgstr ""
+msgstr "Opèreitā"
 
 #: C/search.page:62(gui) C/search.page:84(gui)
 msgid "Description"
@@ -426,7 +427,7 @@ msgstr ""
 
 #: C/search.page:69(p)
 msgid "OR, or, <key>|</key>, <key>,</key>"
-msgstr ""
+msgstr "OR, or, <key>|</key>, <key>,</key>"
 
 #: C/search.page:69(p)
 msgid "Search results will be two songs with either result in any field."
@@ -434,7 +435,7 @@ msgstr ""
 
 #: C/search.page:73(p)
 msgid "NOT, not,<key>-</key>"
-msgstr ""
+msgstr "NOT, not,<key>-</key>"
 
 #: C/search.page:73(p)
 msgid ""
@@ -448,7 +449,7 @@ msgstr ""
 
 #: C/search.page:84(gui)
 msgid "Query"
-msgstr ""
+msgstr "Kyuèri"
 
 #: C/search.page:87(p)
 msgid "dave matthews"
@@ -498,20 +499,21 @@ msgid ""
 msgstr ""
 
 #: C/rb-import.page:12(title)
+#, fuzzy
 msgid "Import your <app>Rhythmbox</app> library"
-msgstr ""
+msgstr "Import neidè laibrari from Amarok, Rhythmbox or iTunes."
 
 #: C/play.page:9(desc)
 msgid "Play your videos and music files."
-msgstr ""
+msgstr "Plei nèist vidios en musik fayls."
 
 #: C/play.page:24(title)
 msgid "Play Your Media"
-msgstr ""
+msgstr "Plei Neidè Midia"
 
 #: C/play.page:27(title)
 msgid "Play your music"
-msgstr ""
+msgstr "Plei neidè musik"
 
 #: C/play.page:29(p)
 msgid ""
@@ -557,7 +559,7 @@ msgstr ""
 
 #: C/play.page:61(title)
 msgid "Play a video"
-msgstr ""
+msgstr "Plei 1-gè Vidio"
 
 #: C/play.page:63(p)
 msgid ""
@@ -575,7 +577,7 @@ msgstr ""
 
 #: C/play.page:74(title)
 msgid "Play a Podcast"
-msgstr ""
+msgstr "Plei 1-gè Podkast"
 
 #: C/play.page:76(p)
 msgid ""
@@ -592,8 +594,9 @@ msgid ""
 msgstr ""
 
 #: C/play.page:88(title)
+#, fuzzy
 msgid "Play an internet radio station"
-msgstr ""
+msgstr "Ädd niu Internet radio steiçion or pleilist"
 
 #: C/play.page:90(p)
 msgid ""
@@ -610,7 +613,7 @@ msgstr ""
 
 #: C/play-queue.page:9(desc)
 msgid "Add media to your play queue."
-msgstr ""
+msgstr "Ädd midia tu neidè pleikyu"
 
 #: C/play-queue.page:18(title)
 msgid "Play Queue"
@@ -625,7 +628,7 @@ msgstr ""
 
 #: C/play-queue.page:26(title)
 msgid "Add Music to the Play Queue"
-msgstr ""
+msgstr "Ädd Musik tu Pleikyu"
 
 #: C/play-queue.page:28(p)
 msgid ""
@@ -660,7 +663,7 @@ msgstr ""
 
 #: C/play-queue.page:56(title)
 msgid "Organize Your Play Queue"
-msgstr ""
+msgstr "Orgànais Neidè Pleikyu"
 
 #: C/play-queue.page:58(p)
 msgid ""
@@ -673,8 +676,9 @@ msgid ""
 msgstr ""
 
 #: C/play-queue.page:70(title)
+#, fuzzy
 msgid "Removing Tracks from the Play Queue"
-msgstr ""
+msgstr "Ädd moa rändom träkks tu pleikyu"
 
 #: C/play-queue.page:72(p)
 msgid ""
@@ -700,11 +704,11 @@ msgstr ""
 
 #: C/manage-tags.page:25(title)
 msgid "Music Metadata"
-msgstr ""
+msgstr "Musik Metadeitā"
 
 #: C/manage-tags.page:29(title)
 msgid "Music metadata"
-msgstr ""
+msgstr "Musik metadeitā"
 
 #: C/manage-tags.page:31(p)
 msgid ""
@@ -730,7 +734,7 @@ msgstr ""
 
 #: C/manage-tags.page:50(title)
 msgid "Edit Your Metadata"
-msgstr ""
+msgstr "Edit neidè metadeitā"
 
 #: C/manage-tags.page:52(p)
 msgid ""
@@ -749,11 +753,11 @@ msgstr ""
 
 #: C/manage-tags.page:63(gui)
 msgid "Track Title"
-msgstr ""
+msgstr "Träkk Tàitol"
 
 #: C/manage-tags.page:64(gui)
 msgid "Track Artist"
-msgstr ""
+msgstr "Träkk Artist"
 
 #: C/manage-tags.page:65(gui)
 msgid "Album Title"
@@ -761,19 +765,19 @@ msgstr "Älbùm dè Tàitol"
 
 #: C/manage-tags.page:66(gui)
 msgid "Genre"
-msgstr ""
+msgstr "Jènre"
 
 #: C/manage-tags.page:67(gui)
 msgid "Track Number"
-msgstr ""
+msgstr "Träkk Nùmbèr"
 
 #: C/manage-tags.page:68(gui)
 msgid "Disc Number"
-msgstr ""
+msgstr "Disk Nùmbèr"
 
 #: C/manage-tags.page:69(gui) C/manage-playlists.page:109(gui)
 msgid "Year"
-msgstr "Nin"
+msgstr "Ninfèn"
 
 #: C/manage-tags.page:72(p)
 msgid ""
@@ -786,7 +790,7 @@ msgstr ""
 
 #: C/manage-playlists.page:10(desc)
 msgid "Create and manage playlists."
-msgstr ""
+msgstr "Krieit en männeij pleilists."
 
 #: C/manage-playlists.page:19(title) C/keyboardshortcuts.page:69(title)
 msgid "Playlists"
@@ -810,7 +814,7 @@ msgstr ""
 
 #: C/manage-playlists.page:34(title)
 msgid "Normal Playlists"
-msgstr ""
+msgstr "Normol Pleilists"
 
 #: C/manage-playlists.page:36(p)
 msgid ""
@@ -861,7 +865,7 @@ msgstr ""
 
 #: C/manage-playlists.page:76(title)
 msgid "Smart Playlist"
-msgstr ""
+msgstr "Smarti Pleilist"
 
 #: C/manage-playlists.page:78(p)
 msgid ""
@@ -887,23 +891,28 @@ msgstr "wa"
 
 #: C/manage-playlists.page:94(p)
 msgid "is not"
-msgstr ""
+msgstr "not dū"
 
 #: C/manage-playlists.page:95(p)
+#, fuzzy
 msgid "less than"
-msgstr ""
+msgstr "és més petit que"
 
 #: C/manage-playlists.page:96(p)
+#, fuzzy
 msgid "more than"
-msgstr ""
+msgstr "Butdùk drop moa đän 1-gè fail ontu Poedit dè window."
 
 #: C/manage-playlists.page:97(p)
+#, fuzzy
 msgid "at most"
-msgstr ""
+msgstr "Sùpport für most iPod/iPhone/iPad divaises."
 
 #: C/manage-playlists.page:98(p)
+#, fuzzy
 msgid "at least"
 msgstr ""
+"La creació d'aquest CD requereix almenys {0} MB d'espai lliure al disc."
 
 #: C/manage-playlists.page:101(p)
 msgid ""
@@ -915,15 +924,16 @@ msgstr ""
 
 #: C/manage-playlists.page:110(gui)
 msgid "2010"
-msgstr ""
+msgstr "2010n"
 
 #: C/manage-playlists.page:113(gui)
 msgid "Rating"
-msgstr ""
+msgstr "Reitiŋ"
 
 #: C/manage-playlists.page:114(p)
+#, fuzzy
 msgid "<gui/>5 stars"
-msgstr ""
+msgstr "stās"
 
 #: C/manage-playlists.page:118(p)
 msgid ""
@@ -942,7 +952,7 @@ msgstr ""
 
 #: C/manage-playlists.page:131(title)
 msgid "Banshee Smart Playlists"
-msgstr ""
+msgstr "Banshee Smart Pleilists"
 
 #: C/manage-playlists.page:132(p)
 msgid "Favorites (Songs rated four and five stars)"
@@ -982,7 +992,7 @@ msgstr ""
 
 #: C/manage-coverart.page:24(title)
 msgid "Cover art"
-msgstr ""
+msgstr "Kòvèr art"
 
 #: C/lastfm.page:9(desc)
 msgid "Enable Last.fm, song reporting and Last.fm radio."
@@ -990,7 +1000,7 @@ msgstr ""
 
 #: C/lastfm.page:24(title)
 msgid "Last.fm"
-msgstr ""
+msgstr "Last.fm"
 
 #: C/lastfm.page:26(p)
 msgid ""
@@ -1005,7 +1015,7 @@ msgstr ""
 
 #: C/lastfm.page:35(title)
 msgid "Enable Last.fm"
-msgstr ""
+msgstr "Enàbol Last.fm"
 
 #: C/lastfm.page:36(p)
 msgid ""
@@ -1016,13 +1026,6 @@ msgid ""
 "gui> tab and press the <gui>Source</gui> drop down menu and choose <gui>Last."
 "fm</gui> and select the <em>Sign up for Last.fm</em> link."
 msgstr ""
-"Per treure el màxim partit de Last.fm, us caldrà crear un perfil a Last.Fm. "
-"Visiteu <link href=\"http://www.last.fm/join\">http://www.last.fm/join</"
-"link> i creeu un compte o seleccioneu <guiseq><gui>Edita</"
-"gui><gui>Preferències</gui></guiseq> des del menú del Banshee. A "
-"continuació, premeu a la pestanya <gui>Específic de la font</gui> i premeu "
-"el menú desplegable <gui>Font</gui> i escolliu <gui>Last.fm</gui> i "
-"seleccioneu l'enllaç <em>Doneu-vos d'alta a Last.fm</em>."
 
 #: C/lastfm.page:45(p)
 msgid ""
@@ -1038,7 +1041,7 @@ msgstr ""
 
 #: C/lastfm.page:58(title)
 msgid "Enable Last.fm Song Reporting"
-msgstr ""
+msgstr "Enàbol Last.fm Soŋ Rīportiŋ"
 
 #: C/lastfm.page:59(p)
 msgid ""
@@ -1063,7 +1066,7 @@ msgstr ""
 
 #: C/lastfm.page:72(title)
 msgid "Listen to Last.fm Radio"
-msgstr ""
+msgstr "Litsen tu Last.fm Radio"
 
 #: C/lastfm.page:73(p)
 msgid ""
@@ -1090,59 +1093,60 @@ msgstr ""
 #: C/keyboardshortcuts.page:7(desc) C/advanced.page:27(title)
 #: C/advanced.page:29(title)
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Kībōd šortkùts"
 
 #: C/keyboardshortcuts.page:24(title)
 msgid "Control Banshee using Keyboard Shortcuts"
-msgstr ""
+msgstr "Koncrol Banshee yusiŋ Kībōd Shortkùts"
 
 #: C/keyboardshortcuts.page:28(title)
 msgid "Playback Control"
-msgstr ""
+msgstr "Pleibäk Koncrol"
 
 #: C/keyboardshortcuts.page:32(gui) C/keyboardshortcuts.page:53(gui)
 #: C/keyboardshortcuts.page:73(gui) C/keyboardshortcuts.page:90(gui)
 #: C/keyboardshortcuts.page:107(gui)
 msgid "Key"
-msgstr ""
+msgstr "Kī"
 
 #: C/keyboardshortcuts.page:32(gui) C/keyboardshortcuts.page:53(gui)
 #: C/keyboardshortcuts.page:73(gui) C/keyboardshortcuts.page:90(gui)
 #: C/keyboardshortcuts.page:107(gui)
 msgid "Action"
-msgstr ""
+msgstr "Akçion"
 
 #: C/keyboardshortcuts.page:35(p)
 msgid "Space Bar"
-msgstr ""
+msgstr "Speisbār"
 
 #: C/keyboardshortcuts.page:35(p)
 msgid "Play or Pause the current song"
-msgstr ""
+msgstr "Plei or pàus körrènt soŋ"
 
 #: C/keyboardshortcuts.page:38(p) C/keyboardshortcuts.page:76(key)
 msgid "N"
-msgstr ""
+msgstr "N"
 
 #: C/keyboardshortcuts.page:38(p)
 msgid "Play the next song"
-msgstr ""
+msgstr "Plei nèist soŋ"
 
 #: C/keyboardshortcuts.page:41(p)
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: C/keyboardshortcuts.page:41(p)
 msgid "Play the previous song"
-msgstr ""
+msgstr "Plei priv soŋ"
 
 #: C/keyboardshortcuts.page:49(title)
 msgid "Library Interaction"
-msgstr ""
+msgstr "Laibrari Interakçion"
 
 #: C/keyboardshortcuts.page:56(p)
+#, fuzzy
 msgid "<key>/</key>, <keyseq><key>Control</key><key>F</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Ktrl</key><key>F</key></keyseq>"
 
 #: C/keyboardshortcuts.page:56(p)
 msgid "Move the focus to the search box"
@@ -1157,15 +1161,15 @@ msgstr "Koncrol"
 
 #: C/keyboardshortcuts.page:60(key)
 msgid "I"
-msgstr ""
+msgstr "I"
 
 #: C/keyboardshortcuts.page:61(p)
 msgid "Open import media dialog"
-msgstr ""
+msgstr "Opèn import midia dialog"
 
 #: C/keyboardshortcuts.page:76(p)
 msgid "Create New Playlist"
-msgstr ""
+msgstr "Krieit Niu Pleilist"
 
 #: C/keyboardshortcuts.page:86(title) C/add-podcast.page:26(title)
 msgid "Podcasts"
@@ -1173,43 +1177,46 @@ msgstr "Podkasts"
 
 #: C/keyboardshortcuts.page:93(key)
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: C/keyboardshortcuts.page:93(p)
+#, fuzzy
 msgid "Mark the selected episodes as old"
-msgstr ""
+msgstr "Marca com a vell"
 
 #: C/keyboardshortcuts.page:103(title)
 msgid "Interface"
-msgstr ""
+msgstr "Interfeis"
 
 #: C/keyboardshortcuts.page:110(key)
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: C/keyboardshortcuts.page:110(p)
 msgid "Toggle full-screen mode"
-msgstr ""
+msgstr "Toggol Full-skrīn moud"
 
 #: C/keyboardshortcuts.page:114(key) C/keyboardshortcuts.page:118(key)
 msgid "A"
 msgstr ""
 
 #: C/keyboardshortcuts.page:114(p)
+#, fuzzy
 msgid "Select all songs in playlist view"
-msgstr ""
+msgstr "Selecciona totes les cançons de la llista de cançons"
 
 #: C/keyboardshortcuts.page:118(key)
 msgid "Shift"
-msgstr ""
+msgstr "Šift"
 
 #: C/keyboardshortcuts.page:119(p)
+#, fuzzy
 msgid "Unselect all songs in playlist view"
-msgstr ""
+msgstr "Desselecciona totes les cançons de la llista de cançons"
 
 #: C/keyboardshortcuts.page:123(key)
 msgid "W"
-msgstr ""
+msgstr "W"
 
 #: C/keyboardshortcuts.page:123(p)
 msgid "Hide Banshee Window (Requires Notification Area Plug-in Enabled"
@@ -1217,7 +1224,7 @@ msgstr ""
 
 #: C/keyboardshortcuts.page:127(key)
 msgid "Left Mouse Button"
-msgstr ""
+msgstr "Left Maus Bùttòn"
 
 #: C/keyboardshortcuts.page:128(p)
 msgid "Play Previous Song (Requires Notification Area Plug-in Enabled"
@@ -1225,7 +1232,7 @@ msgstr ""
 
 #: C/keyboardshortcuts.page:132(key)
 msgid "Right Mouse Button"
-msgstr ""
+msgstr "Rait Maus Bùttòn"
 
 #: C/keyboardshortcuts.page:133(p)
 msgid "Play Next Song (Requires Notification Area Plug-in Enabled"
@@ -1233,11 +1240,11 @@ msgstr ""
 
 #: C/keyboardshortcuts.page:137(key)
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "Middol Maus Bùttòn"
 
 #: C/keyboardshortcuts.page:138(p)
 msgid "Toggle Play / Pause (Requires Notification Area Plug-in Enabled"
-msgstr ""
+msgstr "Toggol Plei / Pàus (Rikwakr Noutifaikeiçion Äria Plùgpin Enàbolen"
 
 #: C/itunes-import.page:8(desc)
 msgid ""
@@ -1245,12 +1252,13 @@ msgid ""
 msgstr ""
 
 #: C/itunes-import.page:12(title)
+#, fuzzy
 msgid "Import your <app>iTunes</app> library"
-msgstr ""
+msgstr "Import neidè laibrari from Amarok, Rhythmbox or iTunes."
 
 #: C/introduction.page:8(desc)
 msgid "Introduction to the <app>Banshee Media Player</app>."
-msgstr ""
+msgstr "Introdùkçion tu đe <app>Banshee Midia Pleiā</app>."
 
 #: C/introduction.page:24(title)
 msgid "Introduction"
@@ -1279,27 +1287,29 @@ msgstr ""
 
 #: C/index.page:24(title)
 msgid "Add, Remove &amp; Play"
-msgstr ""
+msgstr "Ädd, Rīmūv &amp; Plei"
 
 #: C/index.page:28(title)
+#, fuzzy
 msgid "Manage &amp; Sort"
-msgstr ""
+msgstr "Gestiona les e_xtensions"
 
 #: C/index.page:32(title)
 msgid "Sync your media with a portable music player"
 msgstr ""
 
 #: C/index.page:36(title)
+#, fuzzy
 msgid "Add additional functionality to Banshee"
-msgstr ""
+msgstr "Gestiona les extensions per afegir funcions noves al Banshee"
 
 #: C/index.page:40(title)
 msgid "Advanced options and help"
-msgstr ""
+msgstr "Gokab-na opçions en help"
 
 #: C/index.page:44(title)
 msgid "Common Problems"
-msgstr ""
+msgstr "Kòmmòn-na Problèms"
 
 #: C/import.page:8(desc)
 msgid "Add music and videos from your computer to your Banshee library."
@@ -1307,15 +1317,15 @@ msgstr ""
 
 #: C/import.page:15(name)
 msgid "Shaun McCance"
-msgstr ""
+msgstr "Shaun McCance"
 
 #: C/import.page:16(email)
 msgid "shaunm@gnome.org"
-msgstr ""
+msgstr "shaunm@gnome.org"
 
 #: C/import.page:21(title)
 msgid "Import music &amp; videos"
-msgstr ""
+msgstr "Import musik &amp; vidios"
 
 #: C/import.page:23(p)
 msgid ""
@@ -1339,7 +1349,7 @@ msgstr ""
 
 #: C/import.page:37(gui)
 msgid "Local Folders"
-msgstr ""
+msgstr "Lokol Fouldèrs"
 
 #: C/import.page:38(p)
 msgid ""
@@ -1350,7 +1360,7 @@ msgstr ""
 
 #: C/import.page:43(gui)
 msgid "Local Files"
-msgstr ""
+msgstr "Lokol Fayls"
 
 #: C/import.page:44(p)
 msgid ""
@@ -1360,7 +1370,7 @@ msgstr ""
 
 #: C/import.page:49(gui)
 msgid "Home Folder"
-msgstr ""
+msgstr "Hom Fouldèr"
 
 #: C/import.page:50(p)
 msgid ""
@@ -1388,7 +1398,7 @@ msgstr ""
 
 #: C/import.page:68(title)
 msgid "Import from a Playlist"
-msgstr ""
+msgstr "Import from 1-gè Pleilist"
 
 #: C/import.page:69(p)
 msgid ""
@@ -1400,7 +1410,7 @@ msgstr ""
 
 #: C/import.page:78(title)
 msgid "Additional Import Sources"
-msgstr ""
+msgstr "Äddeiçionol Import Sōrs"
 
 #: C/import.page:79(p)
 msgid ""
@@ -1409,44 +1419,50 @@ msgid ""
 msgstr ""
 
 #: C/extensions.page:8(desc)
+#, fuzzy
 msgid "Add additional functionality to Banshee."
-msgstr ""
+msgstr "Gestiona les extensions per afegir funcions noves al Banshee"
 
 #: C/extensions.page:23(title)
 msgid "Banshee Extensions"
-msgstr ""
+msgstr "Banshee Ikstençions"
 
 #: C/extensions.page:27(title)
+#, fuzzy
 msgid "Official Banshee Extensions"
-msgstr ""
+msgstr "Gestiona les e_xtensions"
 
 #: C/extensions.page:29(title)
+#, fuzzy
 msgid "Manage extensions for Banshee"
-msgstr ""
+msgstr "Gestiona les e_xtensions"
 
 #: C/extensions.page:34(title)
 msgid "Community Banshee Extensions"
-msgstr ""
+msgstr "Kommyuniti Banshee Ikstençions"
 
 #: C/extensions.page:36(title)
+#, fuzzy
 msgid "Add community built extensions for Banshee"
-msgstr ""
+msgstr "Gestiona les extensions per afegir funcions noves al Banshee"
 
 #: C/emusic.page:8(desc)
+#, fuzzy
 msgid "Import music purchased from eMusic."
-msgstr ""
+msgstr "Dawnloud en import musik pörčeisen from eMusic."
 
 #: C/emusic.page:12(title)
 msgid "Import your eMusic tracks"
-msgstr ""
+msgstr "Import neidè eMusic träkks"
 
 #: C/amazon.page:9(desc)
+#, fuzzy
 msgid "Sync and purchase music from the Amazon MP3 Store."
-msgstr ""
+msgstr "Braws, söč en pörčeis musik from Amazon MP3 stor."
 
 #: C/amazon.page:24(title)
 msgid "Amazon MP3 Store"
-msgstr ""
+msgstr "Amazon dè MP3 Stor"
 
 #: C/amazon.page:26(p)
 msgid ""
@@ -1478,7 +1494,7 @@ msgstr ""
 
 #: C/amazon.page:51(title)
 msgid "Buy Amazon MP3s in Banshee"
-msgstr ""
+msgstr "Pörčeis MP3 from Amazon in Banshee"
 
 #: C/amazon.page:53(p)
 msgid ""
@@ -1492,7 +1508,7 @@ msgstr ""
 
 #: C/amazon.page:63(title)
 msgid "Import Amazon MP3s manually"
-msgstr ""
+msgstr "Import MP3 from Amazon mänyuolli"
 
 #: C/amazon.page:65(p)
 msgid ""
@@ -1515,23 +1531,23 @@ msgstr ""
 
 #: C/advanced.page:8(desc)
 msgid "Get help for advanced actions."
-msgstr ""
+msgstr "Get help für gokab-na akçions."
 
 #: C/advanced.page:23(title)
 msgid "Advanced Options and Help"
-msgstr ""
+msgstr "Gokab-na Opçions en Help"
 
 #: C/add-radio.page:11(desc)
 msgid "Add, remove and play internet radio stations in Banshee."
-msgstr ""
+msgstr "Ädd, rīmūv en plei Internet radio steiçions in Banshee."
 
 #: C/add-radio.page:26(title)
 msgid "Internet Radio"
-msgstr ""
+msgstr "Internet Radio"
 
 #: C/add-radio.page:29(title)
 msgid "What is Internet Radio?"
-msgstr ""
+msgstr "Internet Radio wa myenigga?"
 
 #: C/add-radio.page:31(p)
 msgid ""
@@ -1544,7 +1560,7 @@ msgstr ""
 
 #: C/add-radio.page:41(title)
 msgid "Add Radio Station"
-msgstr ""
+msgstr "Ädd Radio Steiçion"
 
 #: C/add-radio.page:43(p)
 msgid ""
@@ -1584,7 +1600,7 @@ msgstr ""
 
 #: C/add-podcast.page:11(desc)
 msgid "Add, remove and play podcasts in Banshee."
-msgstr ""
+msgstr "Ädd, rīmūv en plei podkasts in Banshee."
 
 #: C/add-podcast.page:29(title)
 msgid "What is a Podcast?"
@@ -1640,8 +1656,9 @@ msgid ""
 msgstr ""
 
 #: C/add-podcast.page:65(p)
+#, fuzzy
 msgid "Download All Episodes (This will download all episodes)."
-msgstr ""
+msgstr "Sùbskraib tu podkasts en stream or dawnloud episods."
 
 #: C/add-podcast.page:66(p)
 msgid ""
